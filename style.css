@@ -27,12 +27,13 @@
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#0d5806,#0abd31);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    height: 1000px;
 }
 
 .escola-div-conteudo{
